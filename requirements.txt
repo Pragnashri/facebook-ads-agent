@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain>=0.2.9
+langchain-community>=0.0.24
+chromadb==0.4.24
+transformers
+torch
+sentence-transformers
